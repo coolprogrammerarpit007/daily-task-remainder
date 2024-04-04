@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#task-board {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 50%;
+  height: 20rem;
+  border: 1px solid #000;
+}
